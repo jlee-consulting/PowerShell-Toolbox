@@ -1,0 +1,1 @@
+The original SampleFile.txt has no linefeed at the EOF.
