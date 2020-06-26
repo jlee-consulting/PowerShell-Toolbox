@@ -7,10 +7,10 @@
         adds a linefeed to the final line of the file if the final line does not
         have a linefeed.
 
-    .INPUT
+    .INPUTS
         InputFile.txt contains a single line of text without linefeed
 
-    .OUTPUT
+    .OUTPUTS
         Writes the output to OutputFile.txt.
 
     .EXAMPLE
